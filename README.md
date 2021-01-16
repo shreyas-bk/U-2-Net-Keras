@@ -13,3 +13,4 @@ Download saved model (keras version of u2net) from [Drive](https://drive.google.
 
 TODO:
  - add rectified inference cell that doesn't use torch
+ - add CPU supported weights trained on Keras model
