@@ -12,7 +12,7 @@ Download saved model (keras version of u2netp) from [Drive](https://drive.google
 Download saved model (keras version of u2net) from [Drive](https://drive.google.com/file/d/1y3LQSuxZcggilzMo82rPdGW9PMt-Lqam/view?usp=sharing)
 
 # Inference
-Inference code can be found in the notebook itself or minimal testing scripts can be found at [https://github.com/Voinic/u2net-keras](https://github.com/Voinic/u2net-keras)
+Inference code can be found in the notebook itself or minimal testing scripts can be found at [https://github.com/Voinic/u2net-keras](https://github.com/Voinic/u2net-keras) (includes GPU support for u2net_portrait as well)
 
 TODO:
  - add rectified inference cell that doesn't use torch
